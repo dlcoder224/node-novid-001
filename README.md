@@ -25,3 +25,11 @@ npm i @types/express -D
 npm i axios -S
 ```
 
+## node 版本
+
+> Node: v18.12.1
+## 前端项目地址
+
+```ts
+https://github.com/dlcoder224/novid-001
+```
